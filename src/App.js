@@ -6,9 +6,9 @@ function App() {
             <>
                   <div class='flex'>
                         <div class='overflow-scroll h-[100vh] w-[24em] bg-white m-0 p-0'>
-                              <h1 class='fixed text-4xl font-bold ml-20 mt-8 mb-8'>Pocket Notes</h1>
+                              <h1 class=' text-4xl font-bold ml-20 mt-8'>Pocket Notes</h1>
 
-                              <div class='mt-[8em] flex'>
+                              <div class='mt-[4em] flex'>
                                     <div class='h-16 w-16 bg-[rgba(0,71,255,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>MN</div>
                                     <p class='text-xl font-bold m-4 ml-7'>My Notes</p>
                               </div>
@@ -45,24 +45,24 @@ function App() {
                                     </div>
 
                                     <div>
-                                    <div class='fixed ml-7 h-16 w-16 bg-[rgba(22,0,139,1)] rounded-full text-white flex items-center justify-center font-bold text-3xl'>+</div>
+                                    <div class='fixed h-16 w-16 bg-[rgba(22,0,139,1)] rounded-full text-white flex items-center justify-center ml-7 font-bold mb-5 text-3xl'><span class='mb-2  '>+</span></div>
                                     </div>
                               </div>
 
                               <div class='flex'>
-                                    <div class='h-16 w-16 bg-[rgba(55,12,24,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>PN</div>
+                                    <div class='h-16 w-16 bg-[rgba(55,12,24,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>RN</div>
                                     <p class='text-xl font-bold m-4 ml-7'>ReactJs Notes</p>
                               </div>
 
                               
                               <div class='flex'>
-                                    <div class='h-16 w-16 bg-[rgba(185,121,270,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>PN</div>
+                                    <div class='h-16 w-16 bg-[rgba(185,121,270,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>CN</div>
                                     <p class='text-xl font-bold m-4 ml-7'>C# Notes</p>
                               </div>
 
                               
                               <div class='flex'>
-                                    <div class='h-16 w-16 bg-[rgba(100,200,240,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>PN</div>
+                                    <div class='h-16 w-16 bg-[rgba(100,200,240,1)] rounded-full text-white flex items-center justify-center ml-4 font-bold mb-5'>NN</div>
                                     <p class='text-xl font-bold m-4 ml-7'>NodeJs Notes</p>
                               </div>
 
